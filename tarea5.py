@@ -114,8 +114,8 @@ while(i < rango):
 print "El maximo solar siguiente sera en el "
 print anio
 
-print "Los 10 siguientes maximos solares ocurriran en "
-print maximos_solares_rango
+#print "Los 10 siguientes maximos solares ocurriran en "
+#print maximos_solares_rango
 
 
 
